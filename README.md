@@ -10,7 +10,7 @@ Built to answer one core business question:
 **Why are we losing employees and what can we do about it?**
 
 ## 📸 Dashboard Preview
-[Add screenshot here]
+[IMG_20260423_025605.jpg]
 
 ## 📈 Key Metrics
 | Metric | Value |
@@ -42,4 +42,4 @@ Built to answer one core business question:
 
 ## 📩 Contact
 Available for freelance dashboard projects.
-DM me on LinkedIn!
+DM me on LinkedIn!@ https://www.linkedin.com/in/tongna-pandir-aa07043a6

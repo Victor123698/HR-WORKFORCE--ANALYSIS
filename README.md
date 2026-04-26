@@ -10,7 +10,7 @@ Built to answer one core business question:
 **Why are we losing employees and what can we do about it?**
 
 ## 📸 Dashboard Preview
-[IMG_20260423_025605.jpg]
+![HR Dashboard](IMG_20260423_025605.jpg)
 
 ## 📈 Key Metrics
 | Metric | Value |
